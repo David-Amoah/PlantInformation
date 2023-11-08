@@ -1,0 +1,9 @@
+# ninja log v5
+17	1273	7211507817219133	CMakeFiles/plantInfo.dir/Flower.cpp.obj	24f03634b0fbaefa
+155	1944	7211522287846568	CMakeFiles/plantInfo.dir/runner.cpp.obj	43f63ab8dd21fd3c
+27	1266	7211507817116703	CMakeFiles/plantInfo.dir/Plant.cpp.obj	afdd98bd65f4db07
+7	1436	7211507818860496	CMakeFiles/plantInfo.dir/main.cpp.obj	3df18e56046739b5
+1944	2134	7211522289682031	plantInfo.exe	d18721f5043b579f
+2	582	7211529766689965	build.ninja	26c4106a035fa776
+7	154	7211522269876963	runner.cpp	5e87a4fe1ed124d9
+7	154	7211522269876963	C:/Users/amoah/CLionProjects/plantInfo/cmake-build-debug/runner.cpp	5e87a4fe1ed124d9

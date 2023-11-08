@@ -1,0 +1,5 @@
+C:/Users/amoah/CLionProjects/plantInfo/cmake-build-debug/CMakeFiles/unittest.dir
+C:/Users/amoah/CLionProjects/plantInfo/cmake-build-debug/CMakeFiles/plantInfo.dir
+C:/Users/amoah/CLionProjects/plantInfo/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/amoah/CLionProjects/plantInfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amoah/CLionProjects/plantInfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
